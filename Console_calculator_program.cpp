@@ -2,7 +2,7 @@
 
 int main(){
     // Simple Calculator Program
-    // Written by: <your name or nickname>
+    // Written by: Rüzgar Kaan
     // This program performs basic arithmetic operations (+, -, *, /)
 
     char op;
@@ -62,3 +62,4 @@ int main(){
 
     return 0;
 }
+
